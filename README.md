@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Catherine!
 
-<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=esthercate&show_icons=true&theme=tokyonight" />
+<img align = "left" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=esthercate&show_icons=true&theme=default" />
 
 <img align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=esthercate&layout=compact" /><br />
 
