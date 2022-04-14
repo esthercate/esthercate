@@ -1,4 +1,4 @@
-## Hi there, I'm Catherine 👋
+# Hi there, I'm Catherine 👋
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=esthercate&show_icons=true&theme=radical" />
 
