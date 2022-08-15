@@ -56,7 +56,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esthercate&show_icons=true&locale=en&layout=compact" alt="esthercate" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esthercate&show_icons=true&locale=en" alt="esthercate" width="50%" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=esthercate&" alt="esthercate" /></p>
