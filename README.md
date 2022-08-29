@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Catherine</h1>
-<h3 align="center">A passionate software engineer from Kenya.</h3>
+<h2 align="center"> 👋 Hi there! I'm Catherine.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esthercate&label=Profile%20views&color=0e75b6&style=flat" alt="esthercate" /> </p>
 
@@ -31,4 +30,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esthercate&show_icons=true&locale=en&layout=compact" alt="esthercate"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esthercate&show_icons=true&locale=en&layout=compact" alt="esthercate" width="50%" /></p>
