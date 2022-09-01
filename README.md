@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi there! I'm Catherine.</h2>
+<h2 align="center">Hi there! 👋 I'm Catherine.</h2>
 
 - 🔭 I’m currently working on **something cool**
 
