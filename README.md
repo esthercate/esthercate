@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,jquery,react,redux,ruby,rails,mysql,sqlite,postgres,git,github,figma,firebase,heroku,netlify,vercel,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,jquery,react,redux,ruby,rails,mysql,sqlite,postgres,git,github,figma,firebase,heroku,netlify,vercel,vscode&perline=8" />
   </a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=esthercate&show_icons=true&locale=en&layout=compact" alt="esthercate" />
 </p>
