@@ -6,9 +6,7 @@
 
 - 📝 I regularly write articles on Dev Community
 
-- 💬 Ask me about **React, Ruby on Rails**
-
-- 📫 How to reach me **vuthi.esther@gmail.com**
+- 💬 Ask me about **React & Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
