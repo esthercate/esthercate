@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript & NextJS**
 
 - 📝 I regularly write articles on Dev Community
 
